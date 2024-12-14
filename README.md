@@ -19,7 +19,7 @@ This project is a system monitoring application built using FastAPI, Django ORM,
 1.  **Clone the repository:**  
 
     ```bash  
-    git clone <[repository-url](https://github.com/shoaibchauhan/systemtask)>  
+    git clone https://github.com/shoaibchauhan/systemtask.git
     ```  
 
 2.  **Create a virtual environment:**  
