@@ -11,8 +11,10 @@ This project is a system monitoring application built using FastAPI, Django ORM,
 *   fastapi
 *   pydantic
 *   uvicorn
-*   PostgreSQL  
-*   Git  
+*   PostgreSQL
+*   psutil  
+*   Git 
+ 
 
 ### Installation  
 
@@ -79,3 +81,5 @@ For this project, a single table was used for simplicity during development.(bec
 *   **Pytz:** Timezone support.  
 *   **Requests:** HTTP library (if needed).  
 *   **Psycopg:** PostgreSQL adapter.
+*   **Psutils:** for background task management
+*   **socket:** for API connection 
